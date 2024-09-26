@@ -8,6 +8,8 @@
 
 ## Future Feature Ideas
 - Better responsivness for all devices (styling)
+- More alert response implimentations
+- Security and Content Security Policy Implimentation
 - Drag adjustible sections i.e. organising widths of component container or code details area
 - Timestamps on components automatically ("Date created", "Date Modified")
 - Fully custom styled code-mirror areas to match dark/light themes (code editor)

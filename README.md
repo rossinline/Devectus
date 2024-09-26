@@ -78,6 +78,16 @@ Please ensure your NodeJS Version is **v20.15.1** or later
 
 **Follow the guide at [GitHub Docs](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)**
 
+### Getting Started
+Install packages -
+```
+npm install
+```
+Start the Application -
+```
+npm start
+```
+
 > [!CAUTION]
 > We are currently unaware of the cross-compatibility of this application on Operating Systems other than Windows 11, please let us know of any issues you may find!
 

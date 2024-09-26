@@ -25,6 +25,16 @@ Please ensure your NodeJS Version is v20.15.1 or later
 ### Installation -
 Follow the guidelines at [GitHub Docs](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 
+Install packages -
+```
+npm install
+```
+Start the Application -
+```
+npm start
+```
+
+
 ## Code Guidelines
 
 ### Style

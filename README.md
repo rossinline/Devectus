@@ -1,7 +1,7 @@
 ﻿# Devectus (Alpha): An Offline Code Component Library Application
 
 <p align="center">
-  <img width="60%" src="#">
+  <img width="60%" src="https://github.com/rossinline/Devectus/blob/main/src/assets/DEV_logos-05_Green-02_transparent_alpha.png">
 </p>
 
 <div align="center">

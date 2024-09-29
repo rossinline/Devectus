@@ -1,4 +1,4 @@
-﻿# Devectus (Alpha): An Offline Code Component Library Application
+﻿# Devectus (Alpha): An Offline Code Component Application
 
 <p align="center">
   <img width="60%" src="https://github.com/rossinline/Devectus/blob/main/src/assets/DEV_logos-05_Green-02_transparent_alpha.png">
@@ -16,7 +16,7 @@
 > [!CAUTION]
 > This Project is at a fairly early stage of development, and is one of our first attempts at opensourcing a project
 
-An Offline Component library app that allows developers to save code snippets and components on the local drive. No complexities, a simple paste of code saved for later use.
+An Offline Component library application that allows developers to save code components/snippets on the local drive. No complexities, a simple paste of code saved for later use.
 
 ## Contents
 - [Our Goals](#our-goals)
@@ -24,6 +24,10 @@ An Offline Component library app that allows developers to save code snippets an
 - [Contributing](#contributing)
 - [Installation and Getting Started](#installation-and-getting-started)
 - [Using The Application](#using-the-application)
+
+<p align="center">
+  <a href="https://youtu.be/NyO9KaN7dOg"><img width="60%" src="https://img.youtube.com/vi/NyO9KaN7dOg/0.jpg"></a>
+</p>
 
 ## Our Goals
 - To make the reusing of code components easier for developers.

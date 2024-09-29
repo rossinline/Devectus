@@ -25,6 +25,7 @@ An Offline Component library application that allows developers to save code com
 - [Installation and Getting Started](#installation-and-getting-started)
 - [Using The Application](#using-the-application)
 
+## Devectus Trailer (Click Image) -
 <p align="center">
   <a href="https://youtu.be/NyO9KaN7dOg"><img width="60%" src="https://img.youtube.com/vi/NyO9KaN7dOg/0.jpg"></a>
 </p>

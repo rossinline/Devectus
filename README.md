@@ -30,6 +30,9 @@ An Offline Component library application that allows developers to save code com
   <a href="https://youtu.be/NyO9KaN7dOg"><img width="60%" src="https://img.youtube.com/vi/NyO9KaN7dOg/0.jpg"></a>
 </p>
 
+> [!WARNING]
+> While the project is under the **CC BY-NC 4.0** license for now, we are open to suggestions and may reconsider the license in the future based on contributor feedback.
+
 ## Our Goals
 - To make the reusing of code components easier for developers.
 - To keep developers code creations safe and 100% offline.
